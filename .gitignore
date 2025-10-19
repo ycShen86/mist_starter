@@ -1,0 +1,15 @@
+# WiFi credentials - DO NOT COMMIT
+wifi_config.h
+
+# Arduino build files
+*.hex
+*.elf
+*.bin
+*.map
+
+# IDE files
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
